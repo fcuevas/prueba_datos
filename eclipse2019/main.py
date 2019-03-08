@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Mar 19 16:36:49 2018
-
+ 
 @author: fcuevas
 """
 from math import pi
@@ -14,14 +14,15 @@ import holoviews as hv
 import geoviews as gv
 import geoviews.feature as gf
 
+import cartopy
 from cartopy import crs as ccrs
 from colorcet import cm_n
 
 from bokeh.io import curdoc
-from bokeh.tile_providers import get_provider
+from bokeh.tile_providers import STAMEN_TONER
 from bokeh.plotting import Figure
 from bokeh.models import WMTSTileSource, OpenURL, TapTool, HoverTool, FactorRange, DatetimeTickFormatter
-from bokeh.models.callbacks import CustomJS
+#from bokeh.models.callbacks import CustomJS
 
 renderer = hv.renderer('bokeh').instance(mode='server')
 hv.extension('bokeh')
@@ -36,10 +37,10 @@ tiles = {'OpenMap': WMTSTileSource(url='http://c.tile.openstreetmap.org/{Z}/{X}/
 #          'NombreFuente','centralNumero','centralNemo','centralNombre',
 #          'Estado','Punto_conexion','Potencia','Capacidad_maxima','Fecha_entrada',
 #          'Clasificacion','Distribuidora','Region','Numero_comunas','Coordenada_este','Coordenada_norte','Zona']
-##solar_tot = pd.read_excel('../centrales_4.xlsx', sheet_name='Solar',encoding="ISO-8859-1", 
+##solar_tot = pd.read_excel('../datos/centrales/1_resumen_centrales/centrales_4.xlsx', sheet_name='Solar',encoding="ISO-8859-1", 
 ##                      names=header,skiprows=1)
 #
-#solar_tot = pd.read_csv('../plantaSolar.csv', encoding="ISO-8859-1", 
+#solar_tot = pd.read_csv('../datos/centrales/1_resumen_centrales/plantaSolar.csv', encoding="ISO-8859-1", 
 #                      names=header,skiprows=1,sep=';',decimal=',')
 #solar = solar_tot[solar_tot.Coordenada_este.notna()]
 #wl = []
@@ -270,7 +271,7 @@ est_DTS_gv = gv.Dataset(est_DTS, kdims=['Estacion'])
 tile_options = dict(width=700,height=800,xaxis=None,yaxis=None,bgcolor='black',show_grid=False,tools=['pan','wheel_zoom'])
 #point_options = dict(alpha = 0.6, tools=['hover','tap','box_select'])
 
-layer_1 = gv.WMTS(tiles['OpenMap']).opts(plot=tile_options)
+layer_1 = gv.WMTS(tiles['ESRI']).opts(plot=tile_options)
 
 #####################
 url2 = "@weblink"
@@ -372,8 +373,17 @@ layer_5 = est_DTS_gv.to(gv.Points, kdims=['Longitud', 'Latitud'],
 #shapefile = 'ecl/eclipsefinal.shp'
 #layer_gis = gv.Shape.from_shapefile(shapefile, crs=ccrs.PlateCarree())
 
-shapefile = 'eclipse2019/boundaries/boundaries2.shp'
-layer_gis = gv.Shape.from_shapefile(shapefile, crs=ccrs.PlateCarree())
+# shapefile = 'eclipse2019/boundaries/boundaries2.shp'
+# layer_gis = gv.Shape.from_shapefile(shapefile, crs=ccrs.PlateCarree())
+
+shapefile = 'eclipse2019/boundaries/eclipse.shp'
+# gv.Shape.from_shapefile(shapefile, crs=ccrs.PlateCarree())
+
+shapes = cartopy.io.shapereader.Reader(shapefile)
+
+referendum = pd.read_csv('eclipse2019/eclipse.csv')
+referendum = hv.Dataset(referendum)
+layer_gis = gv.Shape.from_records(shapes.records(), referendum, on='code', value='Magnitud').opts(tools=['hover'],width=900, height=900, cmap='Wistia',alpha=0.5,colorbar=True)
 
 #gis = xr.open_rasterio('eclipse2019/ecl/eclipse1kmv2_EPSG3857.tif').load()[0]
 #np.place(gis.values,gis.values<-9998.0,[np.nan])
@@ -384,7 +394,7 @@ layer_gis = gv.Shape.from_shapefile(shapefile, crs=ccrs.PlateCarree())
 #layer_gis = hv.Image(gis).redim(x='Longitude', y='Latitude').options(cmap=['#0000ff', '#8888ff', '#ffffff', '#ff8888', '#ff0000'],
 #                    colorbar=True,clipping_colors={'NaN': (0, 0, 0, 0)}) 
 
-mapa = layer_gis.options(alpha=0.5, color='red') * layer_1 *  hv.NdOverlay({'Plantas Solares SEN':layer_2, 
+mapa = layer_gis * layer_1 *  hv.NdOverlay({'Plantas Solares SEN':layer_2, 
                                'Estaciones meteorológicas DMC':layer_4,
                                'Estación Diego de Almagro':layer_5}) 
 

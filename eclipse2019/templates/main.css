@@ -233,25 +233,25 @@ a img {
   font-family: 'gobCL';
   font-weight: 300;
   font-style: normal;
-  src: url("./mapa_dev/static/fonts/gobcl_light.eot?") format("eot"), url("./mapa_dev/static/fonts/gobcl_light.woff") format("woff"), url("./mapa_dev/static/fonts/gobcl_light.ttf") format("truetype");
+  src: url("./eclipse2019/static/fonts/gobcl_light.eot?") format("eot"), url("./eclipse2019/static/fonts/gobcl_light.woff") format("woff"), url("./eclipse2019/static/fonts/gobcl_light.ttf") format("truetype");
 }
 @font-face {
   font-family: "gobCL";
   font-weight: 500;
   font-style: normal;
-  src: url("./mapa_dev/static/fonts/gobcl_regular.eot?") format("eot"), url("./mapa_dev/static/fonts/gobcl_regular.woff") format("woff"), url("./mapa_dev/static/fonts/gobcl_regular.ttf") format("truetype");
+  src: url("./eclipse2019/static/fonts/gobcl_regular.eot?") format("eot"), url("./eclipse2019/static/fonts/gobcl_regular.woff") format("woff"), url("./eclipse2019/static/fonts/gobcl_regular.ttf") format("truetype");
 }
 @font-face {
   font-family: "gobCL";
   font-weight: 700;
   font-style: normal;
-  src: url("./mapa_dev/static/fonts/gobcl_bold.eot?") format("eot"), url("./mapa_dev/static/fonts/gobcl_bold.woff") format("woff"), url("./mapa_dev/static/fonts/gobcl_bold.ttf") format("truetype");
+  src: url("./eclipse2019/static/fonts/gobcl_bold.eot?") format("eot"), url("./eclipse2019/static/fonts/gobcl_bold.woff") format("woff"), url("./eclipse2019/static/fonts/gobcl_bold.ttf") format("truetype");
 }
 @font-face {
   font-family: "gobCL";
   font-weight: 900;
   font-style: normal;
-  src: url("./mapa_dev/static/fonts/gobcl_heavy.eot?") format("eot"), url("./mapa_dev/static/fonts/gobcl_heavy.woff") format("woff"), url("./perf_ratioDTS_dev/static/fonts/gobcl_heavy.ttf") format("truetype");
+  src: url("./eclipse2019/static/fonts/gobcl_heavy.eot?") format("eot"), url("./eclipse2019/static/fonts/gobcl_heavy.woff") format("woff"), url("./perf_ratioDTS_dev/static/fonts/gobcl_heavy.ttf") format("truetype");
 }
 .oculto{
   display: none;
@@ -380,7 +380,7 @@ header nav#menu-principal ul li.current-menu-ancestor a {
 section.cs_inicio{
   height: 90vh;
   min-height: 700px;
-  background-image: url('mapa_dev/static/img/img4.jpg');
+  background-image: url('eclipse2019/static/img/img4.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

@@ -1,4 +1,4 @@
 Codigo;Estacion;Longitud;Latitud;Fecha_inicio;Variables
-000000;Distrito Tecnologico Solar (DTS);-69.5804;-26.1444;Sept 2017;Global horizontal, Global difusa, Humedad, Presion, Viento
-000000;Distrito Tecnologico Solar (DTS);-69.5802;-26.1446;Sept 2017;Ensuciamiento
-000000;Distrito Tecnologico Solar (DTS);-69.5801;-26.1442;Sept 2017;Caracterizacion tecnologica FV
+000000;Estación de medición, Diego de Almagro;-69.5804;-26.1444;Sept 2017;Global horizontal, Global difusa, Humedad, Presion, Viento
+000000;Estación de medición, Diego de Almagro;-69.5802;-26.1446;Sept 2017;Ensuciamiento
+000000;Estación de medición, Diego de Almagro;-69.5801;-26.1442;Sept 2017;Caracterizacion tecnologica FV
