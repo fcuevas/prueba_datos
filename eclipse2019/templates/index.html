@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.comitesolar.cl/wp-content/themes/gobcl-wp-master/img/favicon.ico">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>Eclipse</title>
+
+    {{ bokeh_css }}
+    {{ bokeh_js }}
+    <style media="screen">
+      {% include 'main.css' %}
+    </style>
+
+  </head>
+
+  <body>
+
+
+
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-comiteSolar">
+
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSI" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+
+      <div class="collapse navbar-collapse" id="navbarSI">
+          <ul class="nav navbar-nav ml-auto">
+
+            <li class="nav-item">
+              <a class="nav-link" href="#inicio">Inicio <span class="sr-only">(current)</span></a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#info_si">Definiciones</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#mapavis">Mapa</a>
+            </li>
+
+          </ul>
+
+      </div>
+    </nav>
+
+
+
+
+    <header class="cs_banner jumbotron">
+      <div class="wrap">
+        <h1 id="logo-main">
+          <a href="http://www.comitesolar.cl/">
+            <img src="eclipse2019/static/img/gob.png" alt="Gobierno de Chile">
+          </a>
+          <a href="http://www.comitesolar.cl/">
+            <img src="eclipse2019/static/img/logo_PES_es.png" alt="Comité Solar">
+          </a>
+        </h1>
+      </div>
+    </header>
+
+
+
+    <!-- Titulo y menu -->
+    <section id="inicio" class="cs_sistemaInfo">
+      <div class="jumbotron">
+
+        <div class="container">
+          <h2 class="cs_titulo">Eclipse solar en Chile y sus efectos en la industria fotovoltaica </h2>
+          <p class="cs_fecha">Fecha del eclipse: 2 de Julio de 2019 </p>
+        </div>
+
+          </div>
+        </div>
+
+
+      </div>
+    </section>
+
+<!-- White -->
+    <section id="info_si" class="si_informacion">
+        <!-- NOTE: Todo irá aquí -->
+        <div class="container">
+          <h3 class="titulo_seccion">
+            <svg class="linea_izq" height="10" width="300">
+              <line x1="0" y1="5" x2="300" y2="5" style="stroke:#f37235;stroke-width:3" />
+            </svg>Descripción</h3>
+            <p> En los últimos 500 años en la región de Coquimbo solo han ocurrido 3 fenómenos de eclipse solar total, ocurridos el 9 de junio de 1592, 15 de marzo de 1839 y el último el 16 de abril de 1893. Si bien existen estudios sobre estos eclipses y su comportamiento, el próximo eclipse toma mayor relevancia, debido al desarrollo fotovoltaico en los últimos años de la zona norte del país que se ve afectado por el eclipse. Pero, ¿Cuándo ocurrirá?, será el próximo 2 de julio de 2019 y afectará a Chile y Argentina, generando su máxima expresión en el la zona norte de Chile. Este fenómeno tiene una consecuencia directa sobre la generación de energía por energía solar, afectando hasta en un 100% la radiación obtenida en ciertas centrales fotovoltaicas del país. Es por eso que tenemos como objetivo generar una interfaz de visualización de la magnitud del efecto que tine el eclipse solar en Chile, enfocado hacia como este tendrá un efecto sobre la generación de las fotovoltaicas a nivel nacional y así entregar información oportuna para la toma de decisiones en la industria energética.</p>
+
+    <!-- White -->
+    <section id="info_si" class="si_informacion">
+        <!-- NOTE: Todo irá aquí -->
+        <div class="container">
+          <h3 class="titulo_seccion">
+            <svg class="linea_izq" height="10" width="300">
+              <line x1="0" y1="5" x2="300" y2="5" style="stroke:#f37235;stroke-width:3" />
+            </svg>  Definiciones</h3>
+            <p>La definición de un eclipse es bastante simple, cuando un cuerpo celestial oscurece total o parcial a otro cuerpo celeste. Para el caso de un eclipse solar, la luna oscurece al sol. Este fenómeno solo ocurre en la tierra, esto se debe a que el sol tiene aproximadamente 400 veces el diámetro de la luna pero también está ubicado 400 veces más lejos, dando la apreciación desde la tierra de que ambas tienen el mismo tamaño. Este efecto no será para siempre, debido a que naturalmente la luna se aleja de la tierra, aunque se dejará de apreciar aproximadamente dentro de un millón de años más. A continuación se presentarán conceptos relevantes para comprender teóricamente el eclipse solar del 2019.</p>  
+            <ul class="nav nav-tabs" id="myTab" role="tablist">
+              <li class="nav-item">
+                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#cuantificacion" role="tab" aria-controls="home" aria-selected="true">Cuantificación</a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" id="contact-tab" data-toggle="tab" href="#tipoeclipse" role="tab" aria-controls="contact" aria-selected="false">Tipos de eclipse</a>
+              </li>
+
+         <li class="nav-item">
+                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#sombras" role="tab" aria-controls="profile" aria-selected="false">Sombras</a>
+              </li> 
+         <li class="nav-item">
+                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#contactoseclipse" role="tab" aria-controls="profile" aria-selected="false">Contactos de un eclipse solar</a>
+              </li>
+            </ul>
+
+            <div class="tab-content" id="myTabContent">
+              <div class="tab-pane fade show active" id="cuantificacion" role="tabpanel" aria-labelledby="home-tab">
+                <div class="row">
+                  <div class="col-md-12">
+                    <p><b>Magnitud del eclipse:</b> Es la fracción del diámetro del sol cubierta por la luna. Este concepto no se debe confundir con el concepto de abajo, donde si la magnitud del eclipse es 50%, corresponde alrededor de un 40% de la superficie solar que queda oculta.</p>
+                    <p><b>Oscurecimiento del eclipse:</b>Corresponde a la fracción de la superficie del sol cubierta por la luna. No se debe confundir con el concepto de arriba, debido a que  un 50% de la superficie solar está oculta, la magnitud del eclipse es cercana a 60%.</p>
+
+                  </div>
+<!--                   <div class="col-md-6">
+                    <img src="" class="img_ej" alt="Zona imagen de ejemplo">
+                  </div> -->
+                </div>
+              </div>
+
+              <div class="tab-pane fade" id="contactoseclipse" role="tabpanel" aria-labelledby="profile-tab">
+                <div class="row">
+                  <div class="col-md-12">
+                    <p><b>Primer contacto (C1):</b> El instante donde la luna comienza a ocultar el disco solar, dando iniciación de la fase parcial de un eclipse.  
+                    <p><b>Segundo contacto (C2):</b> El momento donde comienza la fase total o anular de un eclipse. En el caso de un eclipse total, corresponde a la desaparición del primer anillo de diamante.
+                     <p><b>Tercer contacto (C3):</b> el instante en que finaliza la fase anular o total de un eclipse solar. Para el eclipse total, es sinónimo de la aparición del segundo anillo de diamante.
+                     <p><b>Cuarto contacto (C4):</b> El momento donde la luna deja de cubrir el disco solar, indicando la finalización de la fase parcial de un eclipse.
+</p>
+</p>
+</p>
+</p>
+                  </div>
+<!--                   <div class="col-md-6">
+                    <img src="" class="img_ej" alt="Zona imagen de ejemplo">
+                  </div> -->
+                </div>
+
+              </div>
+
+              <div class="tab-pane fade" id="tipoeclipse" role="tabpanel" aria-labelledby="contact-tab">
+                <div class="row">
+                  <div class="col-md-8">
+                    <p><b>Parcial:</b> En un eclipse solar corresponde cuando la luna cubre solo una parte del sol. Este eclipse puede ocurrir por sí mismo o proceder a la totalidad o anularidad. Además, es visible sobre una franja mas amplia de la tierra que un eclipse total o anular.</p>
+                    <p><b>Anular:</b> Trata de un eclipse solar donde el diámetro aparente de la luna no logra cubrir completamente al sol. Se aprecia un anillo de luz solar alrededor de la luna, semejante a un anillo de fuego.</p>
+                    <p><b>Total:</b> Cuando el diámetro aparente de la luna es lo suficientemente grande para cubrir completamente totalmente al sol, significa que hay un eclipse total.</p>
+                    <p><b>Híbrido:</b> Trata cuando un raro eclipse solar, donde se pasa de anular a total por un breve periodo de tiempo y puede vuelver a ser anular antes de que termine. </p>
+                    </p>
+                  </div>
+                  <div class="col-md-4">
+                    <img src="eclipse2019/static/img/img5.jpg" class="img_ej" alt="Estación de medición, Diego de Almagro">
+                  </div>
+
+                </div>
+              </div>
+
+              <div class="tab-pane fade" id="sombras" role="tabpanel" aria-labelledby="soiling-tab">
+                <div class="row">
+                  <div class="col-md-6">
+                    <p><p><b>Antumbra:</b> La extensión de la sombra de la luna mas allá de la umbra. Desde este punto se puede observar un eclipse solar anular.</p>
+                    <p><b>Umbra:</b> La parte más oscura de la sombra de la luna. Un observador en la umbra visualiza un eclipse solar total.</p>
+                    <p><b>Penumbra:</b> La porción de la sombra de la luna donde solo se cubre una parte del sol. En este lugar se aprecia un eclipse solar parcial.</p>
+
+                  </div>
+                  <div class="col-md-6">
+                    <img src="eclipse2019/static/img/img1.png" class="img_ej" alt="Zona imagen de ejemplo">
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- NOTE: Versión mobile -->
+            <div id="accordion">
+
+              <div class="card">
+                <div class="card-header" id="headingOne">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#cuantificacion" aria-expanded="true" aria-controls="collapseOne">
+                      Cuantificación
+                    </button>
+                  </h5>
+                </div>
+                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                     <p><b>Magnitud del eclipse:</b> Es la fracción del diámetro del sol cubierta por la luna. Este concepto no se debe confundir con el concepto de abajo, donde si la magnitud del eclipse es 50%, corresponde alrededor de un 40% de la superficie solar que queda oculta. Esta será la utilizada para la visualización de más abajo.</p>
+                    <p><b>Oscurecimiento del eclipse:</b>Corresponde a la fracción de la superficie del sol cubierta por la luna. No se debe confundir con el concepto de arriba, debido a que  un 50% de la superficie solar está oculta, la magnitud del eclipse es cercana a 60%.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="card">
+                <div class="card-header" id="headingTwo">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                      Tipos de eclipse
+                    </button>
+                  </h5>
+                </div>
+                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                  <div class="card-body">
+                    <p><b>Parcial:</b> En un eclipse solar corresponde cuando la luna cubre solo una parte del sol. Este eclipse puede ocurrir por sí mismo o proceder a la totalidad o anularidad. Además, es visible sobre una franja mas amplia de la tierra que un eclipse total o anular.</p>
+                    <p><b>Anular:</b> Trata de un eclipse solar donde el diámetro aparente de la luna no logra cubrir completamente al sol. Se aprecia un anillo de luz solar alrededor de la luna, semejante a un anillo de fuego.</p>
+                    <p><b>Total:</b> Cuando el diámetro aparente de la luna es lo suficientemente grande para cubrir completamente totalmente al sol, significa que hay un eclipse total.</p>
+                    <p><b>Híbrido:</b> Trata cuando un raro eclipse solar, donde se pasa de anular a total por un breve periodo de tiempo y puede vuelver a ser anular antes de que termine. </p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="card">
+                <div class="card-header" id="headingThree">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                      Sombras de un eclipse
+                    </button>
+                  </h5>
+                </div>
+                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                  <div class="card-body">
+                   <p><p><b>Antumbra:</b> La extensión de la sombra de la luna mas allá de la umbra. Desde este punto se puede observar un eclipse solar anular.</p>
+                    <p><b>Umbra:</b> La parte más oscura de la sombra de la luna. Un observador en la umbra visualiza un eclipse solar total.</p>
+                    <p><b>Penumbra:</b> La porción de la sombra de la luna donde solo se cubre una parte del sol. En este lugar se aprecia un eclipse solar parcial.</p>
+
+                  </div>
+                </div>
+              </div>
+
+              <div class="card">
+                <div class="card-header" id="headingFour">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
+                      Contactos de un eclipse
+                    </button>
+                  </h5>
+                </div>
+                <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                  <div class="card-body">
+                       <p><b>Primer contacto (C1):</b> El instante donde la luna comienza a ocultar el disco solar, dando iniciación de la fase parcial de un eclipse.</p>  
+                    <p><b>Segundo contacto (C2):</b> El momento donde comienza la fase total o anular de un eclipse. En el caso de un eclipse total, corresponde a la desaparición del primer anillo de diamante.</p>
+                     <p><b>Tercer contacto (C3):</b> el instante en que finaliza la fase anular o total de un eclipse solar. Para el eclipse total, es sinónimo de la aparición del segundo anillo de diamante.</p>
+                     <p><b>Cuarto contacto (C4):</b> El momento donde la luna deja de cubrir el disco solar, indicando la finalización de la fase parcial de un eclipse.</p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- Fin versión mobile -->
+        </div>
+        <!-- Fin de todo -->
+    </section>
+
+    <!--Gray-->
+  
+
+    <!-- SECCION QUE CONTIENE EL MAPA -->
+    <section id="mapavis" class="container">
+        <!-- Visualizaciones -->
+        <div class="row">
+          <div class="col-md-12">
+            <h3 class="titulo_seccion">
+              <svg class="linea_izq" height="10" width="300">
+                <line x1="0" y1="5" x2="300" y2="5" style="stroke:#f37235;stroke-width:3" />
+              </svg>Mapa</h3>
+          </div>
+
+            <div class="col-md-12">
+              {{ plot_div|indent(8) }}
+            </div>
+
+
+          </div>
+        </div>
+      </section>
+
+  </div>
+
+  <div class="footer_logos">
+      <div class="wrap">
+        <a href="http://wapp.corfo.cl/transparencia/home/" target="_blank"><img src="http://www.comitesolar.cl/wp-content/uploads/2017/07/gob_transparente-1.png" scale="0"></a>
+        <a href="http://www.corfo.cl/" target="_blank"><img src="http://www.comitesolar.cl/wp-content/uploads/2017/02/corfo.png" scale="0"></a>
+        <!-- <a href="http://www.energia.gob.cl/" target="_blank"><img src="http://www.comitesolar.cl/wp-content/uploads/2017/02/min_ener.png" scale="0"></a>
+        <a href="http://www.chiletransforma.cl/" target="_blank"><img src="http://www.comitesolar.cl/wp-content/uploads/2017/02/transforma.png" scale="0"></a> -->
+        <a href="http://www2.corfo.cl/transparencia/informaciontransparencia" target="_blank"><img src="http://www.comitesolar.cl/wp-content/uploads/2017/02/transparencia-1.png" scale="0"></a>
+      </div>
+  </div>
+  <!-- Footer -->
+  <footer>
+
+    <div class="wrap">
+
+      <div class="top">
+
+        <div class="listas">
+
+            <div class="lista widget_nav_menu">
+              <h5>ENLACES DE INTERÉS</h5>
+              <div class="menu-enlaces-de-interes-container">
+                <ul id="menu-enlaces-de-interes" class="menu">
+                  <li id="menu-item-556" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-556"><a href="http://www.enlacesolar.cl">Enlace Solar</a></li>
+                  <li id="menu-item-557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-557"><a href="http://www.solarpaces.org">SolarPACES</a></li>
+                  <li id="menu-item-558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-558"><a href="http://www.iea-pvps.org/">International Energy Agency- Photovoltaic Power Systems Programme (PVPS)</a></li>
+                  <li id="menu-item-559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-559"><a href="http://energiaabierta.cl">Energía Abierta</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="lista w_siguenos">
+              <h5>SÍGUENOS</h5>
+              <div class="redes-lista">
+                <ul class="pes-redes-footer">
+
+                <li class="twitter">
+                  <a class="clearfix" href="https://twitter.com/comite_solar">
+                    <span class="icono"></span>
+                    <div class="texto">
+                      <span class="red">Twitter</span>
+                      <span class="usuario">comite_solar</span>
+                    </div>
+                  </a>
+                </li>
+
+
+                <li class="linkedin">
+                  <a class="clearfix" href="https://www.linkedin.com/company-beta/16163771/">
+                    <span class="icono"></span>
+                    <div class="texto">
+                      <span class="red">LinkedIn</span>
+                      <span class="usuario">Comité Solar</span>
+                    </div>
+                  </a>
+                </li>
+
+
+                <li class="youtube">
+                  <a class="clearfix" href="https://www.youtube.com/channel/UCwzsPTU8PGywOLbaeNJirbw">
+                    <span class="icono"></span>
+                    <div class="texto">
+                      <span class="red">YouTube</span>
+                      <span class="usuario">Comité Solar</span>
+                    </div>
+                  </a>
+                </li>
+
+                </ul>
+              </div>
+              </div>
+
+        </div>
+
+          <div class="clearfix"></div>
+          <div class="sep"></div>
+
+      </div>
+
+      <div class="bottom">
+
+          <div class="left">
+              <span>Comité Solar, Agustinas 640, Piso 16, Santiago, Chile. Teléfono: +56 2 24969600</span>
+          </div>
+
+          <nav>
+              <ul id="menu-main-menu" class="menu-main">
+                <li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="#">Políticas de Privacidad</a></li>
+                <li id="menu-item-43" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43"><a href="#">CC</a></li>
+              </ul>
+          </nav>
+
+          <div class="clearfix"></div>
+
+          <div class="bicolor">
+            <span class="azul"></span>
+            <span class="rojo"></span>
+          </div>
+
+        </div>
+
+      </div>
+
+  </footer>
+
+  <!-- Modal fotos --->
+
+
+
+
+
+
+    <!--  Ups! celular en vertical  -->
+    <div class="cel_vertical oculto">
+      <img src="eclipse2019/static/svg/celu.svg" alt="Tu smartphone está en posición vertical">
+      <h5>Para acceder a las visualizaciones pon en posición horizontal tu smartphone</h5>
+      <button id="vertical_ocultar" type="button" class="btn btn-outline-light">Volver</button>
+    </div>
+
+   <!-- Optional JavaScript -->
+   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  {{ plot_script|indent(8) }}
+
+
+  </body>
+</html>

@@ -1,0 +1,1050 @@
+SDGx01
+
+30° 13' 37.78" S	  ↔  	-30.22716°	    	1m23.5s (total eclipse)
+1m21.5s (lunar limb corrected)
+71° 05' 32.93" W	  ↔  	-71.09248°
+1051.0m (3448ft)
+Umbral depth : 15.69%
+Path width : 146.0km
+Obscuration : 100.00%	 	
+C1
+ 	Magnitude at maximum : 1.00289
+Moon/Sun size ratio : 1.03683
+Umbral velocity : 2.745km/s
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:22:40.3	+25.2°	320.7°	278°	07.5	 
+Start of total eclipse (C2) : 	2019/07/02	20:38:35.7	+13.3°	307.1°	156°	11.2	+0.6s
+Maximum eclipse (MAX) : 	2019/07/02	20:39:17.6	+13.2°	306.9°	008°	04.1	 
+End of total eclipse (C3) : 	2019/07/02	20:39:59.1	+13.1°	306.8°	221°	09.0	-1.5s
+End of partial eclipse (C4) : 	2019/07/02	21:46:26.3	+00.9°	297.5°	098°	12.9	 
+Sunset (SET) : 	2019/07/02	21:53	-00.2°	296.7°	 	 
+
+------------------
+Solar Llano de Llampos
+
+27° 07' 02.86" S	  ↔  	-27.11746°	    	(partial eclipse)
+70° 10' 16.10" W	  ↔  	-70.17114°
+1160.7m (3808ft)
+Obscuration : 93.93%	 	
+C1
+ 	Magnitude at maximum : 0.94494
+Moon/Sun size ratio : 1.03705
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:26:12.6	+26.5°	318.2°	274°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:42:18.9	+13.8°	305.3°	189°	10.0	 
+End of partial eclipse (C4) : 	2019/07/02	21:48:46.1	+01.2°	296.7°	103°	12.6	 
+Sunset (SET) : 	2019/07/02	21:56	-00.2°	295.9°	 
+
+-------------------
+Solar San Andrés
+
+
+27° 15' 15.19" S	  ↔  	-27.25422°	    	(partial eclipse)
+70° 06' 40.39" W	  ↔  	-70.11122°
+963.4m (3161ft)
+Obscuration : 94.28%	 	
+C1
+ 	Magnitude at maximum : 0.94769
+Moon/Sun size ratio : 1.03701
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:26:13.3	+26.4°	318.2°	274°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:42:16.8	+13.7°	305.3°	189°	10.0	 
+End of partial eclipse (C4) : 	2019/07/02	21:48:42.6	+01.1°	296.7°	103°	12.6	 
+Sunset (SET) : 	2019/07/02	21:56	-00.3°	295.9°	 
+
+--------------------
+Solar Diego de Almagro
+
+
+26° 22' 43.43" S	  ↔  	-26.37873°	    	(partial eclipse)
+70° 01' 05.09" W	  ↔  	-70.01808°
+832.5m (2731ft)
+Obscuration : 91.29%	 	
+C1
+ 	Magnitude at maximum : 0.92398
+Moon/Sun size ratio : 1.03711
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:26:58.7	+26.8°	317.7°	273°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:42:54.3	+14.0°	305.0°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:49:09.8	+01.3°	296.6°	104°	12.5	 
+Sunset (SET) : 	2019/07/02	21:57	-00.3°	295.7°	
+
+---------------------
+Solar Santa Cecilia
+
+
+29° 06' 54.43" S	  ↔  	-29.11512°	    	1m40.5s (total eclipse)
+1m35.1s (lunar limb corrected)
+70° 54' 46.04" W	  ↔  	-70.91279°
+1119.9m (3674ft)
+Umbral depth : 23.66%
+Path width : 144.4km
+Obscuration : 100.00%	 	
+C1
+ 	Magnitude at maximum : 1.00437
+Moon/Sun size ratio : 1.03695
+Umbral velocity : 3.166km/s
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:23:38.6	+25.8°	320.0°	277°	07.5	 
+Start of total eclipse (C2) : 	2019/07/02	20:39:26.2	+13.7°	306.6°	049°	02.6	-2.0s
+Maximum eclipse (MAX) : 	2019/07/02	20:40:16.6	+13.6°	306.5°	188°	10.1	 
+End of total eclipse (C3) : 	2019/07/02	20:41:06.7	+13.4°	306.3°	328°	05.3	-7.4s
+End of partial eclipse (C4) : 	2019/07/02	21:47:19.4	+01.1°	297.3°	099°	12.8	 
+Sunset (SET) : 	2019/07/02	21:55	-00.3°	296.4°	
+
+-----------------------
+Solar Lalackama
+
+
+25° 07' 06.56" S	  ↔  	-25.11849°	    	(partial eclipse)
+70° 18' 36.72" W	  ↔  	-70.31020°
+1715.8m (5629ft)
+Obscuration : 87.60%	 	
+C1
+ 	Magnitude at maximum : 0.89486
+Moon/Sun size ratio : 1.03738
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:27:20.5	+27.9°	317.4°	271°	07.6	 
+Maximum eclipse (MAX) : 	2019/07/02	20:43:22.5	+14.9°	304.8°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:49:37.2	+02.0°	296.6°	106°	12.4	 
+Sunset (SET) : 	2019/07/02	22:01	-00.2°	295.4°	
+
+------------------------
+Solar Chañares
+
+
+26° 22' 17.80" S	  ↔  	-26.37161°	    	(partial eclipse)
+70° 04' 40.40" W	  ↔  	-70.07789°
+839.6m (2755ft)
+Obscuration : 91.36%	 	
+C1
+ 	Magnitude at maximum : 0.92453
+Moon/Sun size ratio : 1.03713
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:26:52.6	+26.9°	317.8°	273°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:42:51.3	+14.1°	305.0°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:49:09.1	+01.3°	296.6°	104°	12.5	 
+Sunset (SET) : 	2019/07/02	21:58	-00.3°	295.7°	 
+
+------------------------
+Solar PV Salvador
+
+
+26° 18' 50.83" S	  ↔  	-26.31412°	    	(partial eclipse)
+69° 52' 05.02" W	  ↔  	-69.86806°
+1274.0m (4180ft)
+Obscuration : 90.86%	 	
+C1
+ 	Magnitude at maximum : 0.92052
+Moon/Sun size ratio : 1.03708
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:27:17.8	+26.7°	317.5°	273°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:43:05.4	+13.9°	304.9°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:49:14.3	+01.2°	296.5°	104°	12.5	 
+Sunset (SET) : 	2019/07/02	21:57	-00.2°	295.7°	
+
+------------------------
+Solar Las Terrazas
+
+
+27° 37' 42.10" S	  ↔  	-27.62836°	    	(partial eclipse)
+70° 20' 27.56" W	  ↔  	-70.34099°
+998.6m (3276ft)
+Obscuration : 95.81%	 	
+C1
+ 	Magnitude at maximum : 0.96004
+Moon/Sun size ratio : 1.03702
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:25:34.3	+26.3°	318.7°	275°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:41:49.6	+13.7°	305.6°	189°	10.0	 
+End of partial eclipse (C4) : 	2019/07/02	21:48:26.4	+01.1°	296.8°	102°	12.6	 
+Sunset (SET) : 	2019/07/02	21:56	-00.3°	296.0°	 
+
+-----------------------
+Solar PSF Pama
+
+
+31° 11' 10.97" S	  ↔  	-31.18638°	    	(partial eclipse)
+71° 01' 21.18" W	  ↔  	-71.02255°
+925.8m (3038ft)
+Obscuration : 98.21%	 	
+C1
+ 	Magnitude at maximum : 0.98024
+Moon/Sun size ratio : 1.03666
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:22:13.9	+24.4°	321.0°	280°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:38:37.3	+12.7°	307.2°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:45:41.0	+00.6°	297.6°	096°	12.9	 
+Sunset (SET) : 	2019/07/02	21:51	-00.3°	297.0°	 
+
+------------------------
+Solar PSF Lomas Coloradas
+
+
+31° 11' 41.93" S	  ↔  	-31.19498°	    	(partial eclipse)
+71° 01' 50.95" W	  ↔  	-71.03082°
+879.8m (2887ft)
+Obscuration : 98.18%	 	
+C1
+ 	Magnitude at maximum : 0.97994
+Moon/Sun size ratio : 1.03667
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:22:12.8	+24.4°	321.0°	280°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:38:36.4	+12.7°	307.2°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:45:40.3	+00.6°	297.6°	096°	12.9	 
+Sunset (SET) : 	2019/07/02	21:51	-00.3°	297.0°	 
+------------------------
+Solar Techos de Altamira
+
+
+33° 28' 44.04" S	  ↔  	-33.47890°	    	(partial eclipse)
+70° 32' 15.72" W	  ↔  	-70.53770°
+697.6m (2289ft)
+Obscuration : 92.15%	 	
+C1
+ 	Magnitude at maximum : 0.93088
+Moon/Sun size ratio : 1.0362
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:21:42.1	+22.5°	321.3°	282°	07.3	 
+Maximum eclipse (MAX) : 	2019/07/02	20:37:10.8	+11.2°	307.5°	008°	04.1	 
+Sunset (SET) : 	2019/07/02	21:43	-00.3°	297.7°	0.38%	 
+End of partial eclipse (C4) : 	2019/07/02	21:43:45.8*	-00.5°	297.6°	093°	01.0	 
+------------------------
+Solar Tambo Real
+
+30° 02' 39.52" S	  ↔  	-30.04431°	    	2m22.2s (total eclipse)
+2m18.4s (lunar limb corrected)
+70° 46' 05.12" W	  ↔  	-70.76809°
+591.2m (1940ft)
+Umbral depth : 60.90%
+Path width : 145.2km
+Obscuration : 100.00%	 	
+C1
+ 	Magnitude at maximum : 1.01120
+Moon/Sun size ratio : 1.03677
+Umbral velocity : 2.913km/s
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:23:19.3	+25.0°	320.2°	278°	07.5	 
+Start of total eclipse (C2) : 	2019/07/02	20:38:32.7	+13.2°	306.8°	121°	12.3	+2.7s
+Maximum eclipse (MAX) : 	2019/07/02	20:39:44.0	+13.0°	306.6°	008°	04.1	 
+End of total eclipse (C3) : 	2019/07/02	20:40:54.9	+12.8°	306.5°	255°	07.8	-1.2s
+End of partial eclipse (C4) : 	2019/07/02	21:46:41.6	+00.7°	297.3°	098°	12.8	 
+Sunset (SET) : 	2019/07/02	21:52	-00.3°	296.7°	 
+--------------------------
+Solar Javiera
+
+26° 18' 09.32" S	  ↔  	-26.30259°	    	(partial eclipse)
+70° 12' 59.69" W	  ↔  	-70.21658°
+753.8m (2473ft)
+Obscuration : 91.35%	 	
+C1
+ 	Magnitude at maximum : 0.92444
+Moon/Sun size ratio : 1.03718
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:26:40.5	+27.1°	317.9°	273°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:42:45.9	+14.3°	305.1°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:49:08.7	+01.5°	296.7°	104°	12.5	 
+Sunset (SET) : 	2019/07/02	21:58	-00.3°	295.7°	 
+--------------------------
+Solar Loma Los Colorados
+
+
+31° 11' 10.97" S	  ↔  	-31.18638°	    	(partial eclipse)
+71° 01' 21.18" W	  ↔  	-71.02255°
+925.8m (3038ft)
+Obscuration : 98.21%	 	
+C1
+ 	Magnitude at maximum : 0.98024
+Moon/Sun size ratio : 1.03666
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:22:13.9	+24.4°	321.0°	280°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:38:37.3	+12.7°	307.2°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:45:41.0	+00.6°	297.6°	096°	12.9	 
+Sunset (SET) : 	2019/07/02	21:51	-00.3°	297.0°	 
+----------------------------
+Solar Luz del Norte
+
+
+27° 01' 08.08" S	  ↔  	-27.01891°	    	(partial eclipse)
+69° 53' 38.33" W	  ↔  	-69.89398°
+1724.3m (5657ft)
+Obscuration : 93.20%	 	
+C1
+ 	Magnitude at maximum : 0.93910
+Moon/Sun size ratio : 1.03699
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:26:46.4	+26.3°	317.9°	274°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:42:38.5	+13.6°	305.1°	189°	10.0	 
+End of partial eclipse (C4) : 	2019/07/02	21:48:54.3	+00.9°	296.6°	103°	12.6	 
+Sunset (SET) : 	2019/07/02	21:55	-00.3°	295.9°	 
+----------------------------
+Solar El Pilar
+
+
+26° 19' 03.36" S	  ↔  	-26.31760°	    	(partial eclipse)
+69° 44' 46.25" W	  ↔  	-69.74618°
+1634.6m (5363ft)
+Obscuration : 90.68%	 	
+C1
+ 	Magnitude at maximum : 0.91915
+Moon/Sun size ratio : 1.03705
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:27:30.9	+26.6°	317.4°	273°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:43:12.3	+13.8°	304.8°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:49:16.4	+01.1°	296.4°	104°	12.5	 
+Sunset (SET) : 	2019/07/02	21:56	-00.3°	295.7°	 
+------------------------------
+Solar Pampa Solar del Norte
+
+
+25° 32' 15.00" S	  ↔  	-25.53750°	    	(partial eclipse)
+70° 10' 59.16" W	  ↔  	-70.18310°
+1159.7m (3805ft)
+Obscuration : 88.78%	 	
+C1
+ 	Magnitude at maximum : 0.90418
+Moon/Sun size ratio : 1.03728
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:27:16.2	+27.5°	317.5°	272°	07.6	 
+Maximum eclipse (MAX) : 	2019/07/02	20:43:15.0	+14.6°	304.9°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:49:29.0	+01.7°	296.6°	105°	12.4	 
+Sunset (SET) : 	2019/07/02	22:00	-00.3°	295.5°	
+-------------------------------
+Solar Luna
+
+
+30° 02' 25.08" S	  ↔  	-30.04030°	    	2m25.6s (total eclipse)
+2m20.4s (lunar limb corrected)
+70° 40' 47.93" W	  ↔  	-70.67998°
+708.1m (2323ft)
+Umbral depth : 66.89%
+Path width : 145.0km
+Obscuration : 100.00%	 	
+C1
+ 	Magnitude at maximum : 1.01229
+Moon/Sun size ratio : 1.03675
+Umbral velocity : 2.951km/s
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:23:28.5	+25.0°	320.1°	278°	07.5	 
+Start of total eclipse (C2) : 	2019/07/02	20:38:36.3	+13.1°	306.8°	118°	12.5	+2.9s
+Maximum eclipse (MAX) : 	2019/07/02	20:39:49.3	+12.9°	306.6°	008°	04.1	 
+End of total eclipse (C3) : 	2019/07/02	20:41:01.9	+12.7°	306.4°	259°	07.7	-2.3s
+End of partial eclipse (C4) : 	2019/07/02	21:46:43.9	+00.6°	297.2°	098°	12.8	 
+Sunset (SET) : 	2019/07/02	21:52	-00.3°	296.7°	 
+--------------------------------
+Solar Carrera Pinto
+
+
+27° 00' 14.08" S	  ↔  	-27.00391°	    	(partial eclipse)
+69° 52' 04.69" W	  ↔  	-69.86797°
+1815.3m (5956ft)
+Obscuration : 93.11%	 	
+C1
+ 	Magnitude at maximum : 0.93841
+Moon/Sun size ratio : 1.03698
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:26:49.8	+26.3°	317.8°	274°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:42:40.6	+13.6°	305.1°	189°	10.0	 
+End of partial eclipse (C4) : 	2019/07/02	21:48:55.3	+00.9°	296.5°	103°	12.6	 
+Sunset (SET) : 	2019/07/02	21:55	-00.3°	295.9°	
+----------------------------------
+Solar Sol
+
+
+30° 02' 18.85" S	  ↔  	-30.03857°	    	2m25.6s (total eclipse)
+2m20.4s (lunar limb corrected)
+70° 41' 06.94" W	  ↔  	-70.68526°
+682.5m (2239ft)
+Umbral depth : 66.81%
+Path width : 145.0km
+Obscuration : 100.00%	 	
+C1
+ 	Magnitude at maximum : 1.01228
+Moon/Sun size ratio : 1.03675
+Umbral velocity : 2.949km/s
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:23:28.0	+25.0°	320.1°	278°	07.5	 
+Start of total eclipse (C2) : 	2019/07/02	20:38:36.1	+13.1°	306.8°	118°	12.4	+2.9s
+Maximum eclipse (MAX) : 	2019/07/02	20:39:49.1	+12.9°	306.6°	008°	04.1	 
+End of total eclipse (C3) : 	2019/07/02	20:41:01.7	+12.7°	306.4°	259°	07.7	-2.3s
+End of partial eclipse (C4) : 	2019/07/02	21:46:43.8	+00.6°	297.2°	098°	12.8	 
+Sunset (SET) : 	2019/07/02	21:52	-00.3°	296.7°	
+----------------------------------
+Solar Lalackama 2
+
+
+25° 06' 23.18" S	  ↔  	-25.10644°	    	(partial eclipse)
+70° 18' 37.94" W	  ↔  	-70.31054°
+1639.7m (5380ft)
+Obscuration : 87.56%	 	
+C1
+ 	Magnitude at maximum : 0.89454
+Moon/Sun size ratio : 1.03738
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:27:20.9	+27.9°	317.4°	271°	07.6	 
+Maximum eclipse (MAX) : 	2019/07/02	20:43:22.8	+14.9°	304.8°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:49:37.3	+02.0°	296.6°	106°	12.4	 
+Sunset (SET) : 	2019/07/02	22:01	-00.2°	295.4°	
+-----------------------------------
+Solar Esperanza
+
+
+34° 14' 27.31" S	  ↔  	-34.24092°	    	(partial eclipse)
+70° 40' 26.00" W	  ↔  	-70.67389°
+678.9m (2227ft)
+Obscuration : 89.70%	 	
+C1
+ 	Magnitude at maximum : 0.91161
+Moon/Sun size ratio : 1.03612
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:21:03.7	+22.0°	321.8°	283°	07.3	 
+Maximum eclipse (MAX) : 	2019/07/02	20:36:22.6	+11.0°	307.8°	008°	04.1	 
+Sunset (SET) : 	2019/07/02	21:41	-00.2°	298.0°	0.69%	 
+End of partial eclipse (C4) : 	2019/07/02	21:42:55.1*	-00.6°	297.7°	092°	01.1	 
+----------------------------------
+Solar La Silla
+
+
+29° 18' 38.02" S	  ↔  	-29.31056°	    	2m03.0s (total eclipse)
+2m00.7s (lunar limb corrected)
+70° 44' 11.51" W	  ↔  	-70.73653°
+1618.9m (5311ft)
+Umbral depth : 39.15%
+Path width : 144.3km
+Obscuration : 100.00%	 	
+ 	Magnitude at maximum : 1.00722
+Moon/Sun size ratio : 1.03687
+Umbral velocity : 3.187km/s
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:23:50.1	+25.5°	319.9°	277°	07.5	 
+Start of total eclipse (C2) : 	2019/07/02	20:39:17.3	+13.5°	306.6°	061°	02.3	-0.1s
+Maximum eclipse (MAX) : 	2019/07/02	20:40:18.9	+13.3°	306.4°	188°	10.1	 
+End of total eclipse (C3) : 	2019/07/02	20:41:20.2	+13.1°	306.2°	316°	05.8	-2.3s
+End of partial eclipse (C4) : 	2019/07/02	21:47:15.5	+00.9°	297.2°	099°	12.8	 
+Sunset (SET) : 	2019/07/02	21:54	-00.3°	296.5°	 	 
+----------------------------------
+Solar Quilapilun
+
+
+33° 06' 05.36" S	  ↔  	-33.10149°	    	(partial eclipse)
+70° 39' 06.91" W	  ↔  	-70.65192°
+836.0m (2743ft)
+Obscuration : 93.11%	 	
+C1
+ 	Magnitude at maximum : 0.93849
+Moon/Sun size ratio : 1.03629
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:21:44.3	+22.8°	321.3°	282°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:37:24.0	+11.5°	307.5°	008°	04.1	 
+Sunset (SET) : 	2019/07/02	21:44	-00.2°	297.6°	0.05%	 
+End of partial eclipse (C4) : 	2019/07/02	21:44:05.3*	-00.3°	297.6°	094°	01.0	 
+---------------------------------
+Solar La Chapeana
+
+
+30° 30' 55.73" S	  ↔  	-30.51548°	    	(partial eclipse)
+71° 06' 37.04" W	  ↔  	-71.11029°
+321.9m (1056ft)
+Obscuration : 99.77%	 	
+C1
+ 	Magnitude at maximum : 0.99572
+Moon/Sun size ratio : 1.03679
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:22:27.8	+25.0°	320.8°	279°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:39:02.7	+13.1°	307.1°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:46:11.5	+00.8°	297.5°	097°	12.9	 
+Sunset (SET) : 	2019/07/02	21:52	-00.2°	296.8°	 
+----------------------------------
+Solar Las Mollacas
+
+
+30° 40' 29.60" S	  ↔  	-30.67489°	    	(partial eclipse)
+71° 13' 28.88" W	  ↔  	-71.22469°
+335.8m (1102ft)
+Obscuration : 99.31%	 	
+C1
+ 	Magnitude at maximum : 0.99051
+Moon/Sun size ratio : 1.03679
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:22:10.7	+25.0°	321.0°	279°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:38:48.8	+13.1°	307.2°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:46:01.0	+00.9°	297.6°	097°	12.9	 
+Sunset (SET) : 
+---------------------------------
+Solar Los Loros
+
+
+27° 51' 21.89" S	  ↔  	-27.85608°	    	(partial eclipse)
+70° 10' 23.52" W	  ↔  	-70.17320°
+1512.4m (4962ft)
+Obscuration : 96.28%	 	
+C1
+ 	Magnitude at maximum : 0.96388
+Moon/Sun size ratio : 1.03694
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:25:43.5	+26.0°	318.6°	275°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:41:50.6	+13.5°	305.5°	189°	10.0	 
+End of partial eclipse (C4) : 	2019/07/02	21:48:22.2	+00.9°	296.8°	102°	12.6	 
+Sunset (SET) : 	2019/07/02	21:55	-00.3°	296.1°	 
+----------------------------------
+Solar Conejo
+
+
+25° 32' 24.86" S	  ↔  	-25.54024°	    	(partial eclipse)
+70° 18' 48.31" W	  ↔  	-70.31342°
+928.3m (3046ft)
+Obscuration : 89.00%	 	
+C1
+ 	Magnitude at maximum : 0.90583
+Moon/Sun size ratio : 1.03732
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:27:01.7	+27.6°	317.7°	272°	07.6	 
+Maximum eclipse (MAX) : 	2019/07/02	20:43:07.3	+14.7°	305.0°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:49:26.8	+01.8°	296.7°	105°	12.5	 
+Sunset (SET) : 	2019/07/02	22:00	-00.3°	295.5°	 
+------------------------------------
+Solar Lagunilla
+
+
+30° 30' 24.70" S	  ↔  	-30.50686°	    	(partial eclipse)
+71° 06' 59.47" W	  ↔  	-71.11652°
+431.9m (1417ft)
+Obscuration : 99.78%	 	
+C1
+ 	Magnitude at maximum : 0.99584
+Moon/Sun size ratio : 1.03679
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:22:27.5	+25.0°	320.8°	279°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:39:02.9	+13.1°	307.1°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:46:11.9	+00.8°	297.5°	097°	12.9	 
+Sunset (SET) : 	2019/07/02	21:52	-00.2°	296.8°	 
+----------------------------------
+Solar Til Til
+
+
+32° 56' 22.56" S	  ↔  	-32.93960°	    	(partial eclipse)
+70° 49' 12.54" W	  ↔  	-70.82015°
+826.6m (2712ft)
+Obscuration : 93.36%	 	
+C1
+ 	Magnitude at maximum : 0.94046
+Moon/Sun size ratio : 1.03635
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:21:33.8	+23.1°	321.4°	282°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:37:22.8	+11.7°	307.6°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:44:10.4	-00.1°	297.7°	094°	01.0	 
+Sunset (SET) : 	2019/07/02	21:45	-00.2°	297.6°	 
+----------------------------------
+Solar Cardones
+
+
+27° 29' 15.36" S	  ↔  	-27.48760°	    	(partial eclipse)
+70° 23' 06.07" W	  ↔  	-70.38502°
+754.2m (2475ft)
+Obscuration : 95.43%	 	
+C1
+ 	Magnitude at maximum : 0.95695
+Moon/Sun size ratio : 1.03705
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:25:35.0	+26.4°	318.7°	275°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:41:52.3	+13.9°	305.6°	189°	10.0	 
+End of partial eclipse (C4) : 	2019/07/02	21:48:30.1	+01.2°	296.8°	102°	12.6	 
+Sunset (SET) : 	2019/07/02	21:56	-00.2°	296.0°	 
+-----------------------------------
+Til Til
+
+
+33° 04' 55.24" S	  ↔  	-33.08201°	    	(partial eclipse)
+70° 51' 31.57" W	  ↔  	-70.85877°
+588.9m (1932ft)
+Obscuration : 92.89%	 	
+C1
+ 	Magnitude at maximum : 0.93671
+Moon/Sun size ratio : 1.03634
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:21:25.1	+23.0°	321.5°	282°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:37:13.0	+11.6°	307.6°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:44:00.9	-00.1°	297.7°	094°	01.0	 
+Sunset (SET) : 	2019/07/02	21:45	-00.3°	297.6°	 
+-------------------------------------
+Solar Bellavista
+
+
+31° 39' 55.26" S	  ↔  	-31.66535°	    	(partial eclipse)
+71° 13' 17.65" W	  ↔  	-71.22157°
+322.3m (1057ft)
+Obscuration : 96.59%	 	
+C1
+ 	Magnitude at maximum : 0.96651
+Moon/Sun size ratio : 1.03664
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:21:37.3	+24.3°	321.4°	280°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:38:02.3	+12.6°	307.5°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:45:10.6	+00.6°	297.7°	095°	13.0	 
+Sunset (SET) : 	2019/07/02	21:50	-00.2°	297.2°	 
+---------------------------------------
+Solar Santa Julia
+
+
+32° 18' 06.19" S	  ↔  	-32.30172°	    	(partial eclipse)
+71° 06' 08.42" W	  ↔  	-71.10234°
+351.0m (1151ft)
+Obscuration : 94.88%	 	
+C1
+ 	Magnitude at maximum : 0.95258
+Moon/Sun size ratio : 1.03652
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:21:27.6	+23.7°	321.5°	281°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:37:38.2	+12.2°	307.6°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:44:39.0	+00.3°	297.7°	095°	13.0	 
+Sunset (SET) : 	2019/07/02	21:48	-00.3°	297.3°	 
+----------------------------------------
+Andes Solar
+
+
+24° 00' 47.05" S	  ↔  	-24.01307°	    	(partial eclipse)
+68° 35' 04.09" W	  ↔  	-68.58447°
+2689.8m (8825ft)
+Obscuration : 81.12%	 	
+C1
+ 	Magnitude at maximum : 0.84401
+Moon/Sun size ratio : 1.03706
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:31:19.2	+27.0°	315.0°	269°	07.6	 
+Maximum eclipse (MAX) : 	2019/07/02	20:45:31.6	+13.8°	303.4°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:50:17.7	+00.9°	295.8°	109°	12.3	 
+Sunset (SET) : 	2019/07/02	21:56	-00.2°	295.2°	 
+----------------------------------------
+Pampa Camarones
+
+
+18° 53' 13.31" S	  ↔  	-18.88703°	    	(partial eclipse)
+70° 06' 53.64" W	  ↔  	-70.11490°
+1036.0m (3399ft)
+Obscuration : 66.01%	 	
+C1
+ 	Magnitude at maximum : 0.72362
+Moon/Sun size ratio : 1.03823
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:32:41.7	+31.3°	313.8°	262°	07.7	 
+Maximum eclipse (MAX) : 	2019/07/02	20:46:13.0	+17.7°	302.9°	189°	09.7	 
+End of partial eclipse (C4) : 	2019/07/02	21:50:10.8	+04.5°	296.2°	116°	11.9	 
+Sunset (SET) : 	2019/07/02	22:13	-00.3°	294.3°	
+----------------------------------------
+El Aguila
+
+
+18° 26' 48.59" S	  ↔  	-18.44683°	    	(partial eclipse)
+69° 53' 10.82" W	  ↔  	-69.88634°
+1663.7m (5458ft)
+Obscuration : 64.13%	 	
+C1
+ 	Magnitude at maximum : 0.70840
+Moon/Sun size ratio : 1.03823
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:33:34.7	+31.3°	313.3°	261°	07.7	 
+Maximum eclipse (MAX) : 	2019/07/02	20:46:34.3	+17.6°	302.6°	190°	09.7	 
+End of partial eclipse (C4) : 	2019/07/02	21:50:06.8	+04.5°	296.1°	117°	11.8	 
+Sunset (SET) : 	2019/07/02	22:13	-00.3°	294.2°	
+-----------------------------------------
+Maria Elena FV
+
+
+22° 13' 22.94" S	  ↔  	-22.22304°	    	(partial eclipse)
+69° 34' 01.24" W	  ↔  	-69.56701°
+1162.0m (3812ft)
+Obscuration : 76.59%	 	
+C1
+ 	Magnitude at maximum : 0.80814
+Moon/Sun size ratio : 1.03759
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:30:55.1	+28.9°	315.1°	267°	07.6	 
+Maximum eclipse (MAX) : 	2019/07/02	20:45:29.0	+15.6°	303.5°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:50:24.9	+02.5°	296.1°	111°	12.1	 
+Sunset (SET) : 	2019/07/02	22:04	-00.3°	294.8°	 
+------------------------------------------
+Finis Terrae
+
+
+22° 19' 57.65" S	  ↔  	-22.33268°	    	(partial eclipse)
+69° 31' 39.61" W	  ↔  	-69.52767°
+1224.7m (4018ft)
+Obscuration : 76.90%	 	
+C1
+ 	Magnitude at maximum : 0.81061
+Moon/Sun size ratio : 1.03757
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:30:54.3	+28.8°	315.1°	267°	07.6	 
+Maximum eclipse (MAX) : 	2019/07/02	20:45:28.3	+15.5°	303.5°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:50:24.6	+02.4°	296.1°	111°	12.2	 
+Sunset (SET) : 	2019/07/02	22:04	-00.3°	294.9°	 
+--------------------------------------------
+Solar Jama
+
+
+22° 34' 34.93" S	  ↔  	-22.57637°	    	(partial eclipse)
+68° 42' 11.41" W	  ↔  	-68.70317°
+2586.4m (8485ft)
+Obscuration : 76.41%	 	
+C1
+ 	Magnitude at maximum : 0.80681
+Moon/Sun size ratio : 1.0373
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:32:16.1	+27.9°	314.4°	267°	07.6	 
+Maximum eclipse (MAX) : 	2019/07/02	20:46:06.9	+14.6°	303.1°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:50:31.1	+01.6°	295.8°	111°	12.1	 
+Sunset (SET) : 	2019/07/02	22:00	-00.3°	294.9°	 
+-----------------------------------------
+Pozo Almonte Solar 2
+
+
+20° 16' 18.37" S	  ↔  	-20.27177°	    	(partial eclipse)
+69° 45' 21.10" W	  ↔  	-69.75586°
+1028.5m (3374ft)
+Obscuration : 70.20%	 	
+C1
+ 	Magnitude at maximum : 0.75725
+Moon/Sun size ratio : 1.03793
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:32:11.2	+30.2°	314.2°	264°	07.6	 
+Maximum eclipse (MAX) : 	2019/07/02	20:46:05.3	+16.7°	303.0°	189°	09.7	 
+End of partial eclipse (C4) : 	2019/07/02	21:50:24.4	+03.5°	296.1°	114°	12.0	 
+Sunset (SET) : 	2019/07/02	22:09	-00.3°	294.5°	
+-----------------------------------------
+Pozo Almonte Solar 3
+
+
+20° 15' 02.34" S	  ↔  	-20.25065°	    	(partial eclipse)
+69° 44' 45.28" W	  ↔  	-69.74591°
+1034.5m (3394ft)
+Obscuration : 70.11%	 	
+C1
+ 	Magnitude at maximum : 0.75654
+Moon/Sun size ratio : 1.03793
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:32:13.5	+30.2°	314.2°	264°	07.6	 
+Maximum eclipse (MAX) : 	2019/07/02	20:46:06.3	+16.7°	303.0°	189°	09.7	 
+End of partial eclipse (C4) : 	2019/07/02	21:50:24.4	+03.5°	296.1°	114°	12.0	 
+Sunset (SET) : 	2019/07/02	22:09	-00.3°	294.5°	 
+-------------------------------------------
+La Huayca II
+
+
+20° 27' 07.92" S	  ↔  	-20.45220°	    	(partial eclipse)
+69° 32' 02.62" W	  ↔  	-69.53406°
+992.4m (3256ft)
+Obscuration : 70.45%	 	
+C1
+ 	Magnitude at maximum : 0.75933
+Moon/Sun size ratio : 1.03784
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:32:28.1	+29.9°	314.1°	264°	07.6	 
+Maximum eclipse (MAX) : 	2019/07/02	20:46:13.4	+16.4°	303.0°	189°	09.7	 
+End of partial eclipse (C4) : 	2019/07/02	21:50:26.5	+03.2°	296.0°	114°	12.0	 
+Sunset (SET) : 	2019/07/02	22:08	-00.3°	294.5°	
+--------------------------------------------
+Solar Las Araucarias
+
+
+33° 20' 45.53" S	  ↔  	-33.34598°	    	(partial eclipse)
+70° 42' 41.87" W	  ↔  	-70.71163°
+474.2m (1556ft)
+Obscuration : 92.31%	 	
+Set
+ 	Magnitude at maximum : 0.93213
+Moon/Sun size ratio : 1.03626
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:21:30.1	+22.7°	321.5°	282°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:37:07.6	+11.4°	307.6°	008°	04.1	 
+Sunset (SET) : 	2019/07/02	21:44	-00.3°	297.7°	0.05%	 
+End of partial eclipse (C4) : 	2019/07/02	21:43:49.0*	-00.3°	297.6°	093°	01.0	
+----------------------------------------------
+Solar Chuchini
+
+
+31° 44' 47.15" S	  ↔  	-31.74643°	    	(partial eclipse)
+71° 04' 38.14" W	  ↔  	-71.07726°
+368.4m (1209ft)
+Obscuration : 96.55%	 	
+C1
+ 	Magnitude at maximum : 0.96617
+Moon/Sun size ratio : 1.03659
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:21:48.8	+24.1°	321.3°	280°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:38:06.8	+12.5°	307.4°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:45:10.0	+00.4°	297.7°	095°	13.0	 
+Sunset (SET) : 	2019/07/02	21:49	-00.3°	297.2°	 
+---------------------------------------------
+El Divisadero
+
+
+30° 50' 52.19" S	  ↔  	-30.84783°	    	(partial eclipse)
+71° 07' 40.22" W	  ↔  	-71.12784°
+786.4m (2580ft)
+Obscuration : 98.99%	 	
+C1
+ 	Magnitude at maximum : 0.98731
+Moon/Sun size ratio : 1.03674
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:22:14.9	+24.8°	321.0°	279°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:38:46.9	+12.9°	307.2°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:45:55.3	+00.7°	297.6°	097°	12.9	 
+Sunset (SET) : 	2019/07/02	21:52	-00.3°	296.9°	
+----------------------------------------------
+El Romero
+
+
+29° 06' 37.84" S	  ↔  	-29.11051°	    	1m40.1s (total eclipse)
+1m34.7s (lunar limb corrected)
+70° 55' 07.32" W	  ↔  	-70.91870°
+1142.9m (3750ft)
+Umbral depth : 23.44%
+Path width : 144.4km
+Obscuration : 100.00%	 	
+C1
+ 	Magnitude at maximum : 1.00433
+Moon/Sun size ratio : 1.03695
+Umbral velocity : 3.165km/s
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:23:38.1	+25.8°	320.0°	277°	07.5	 
+Start of total eclipse (C2) : 	2019/07/02	20:39:26.3	+13.7°	306.6°	049°	02.6	-2.1s
+Maximum eclipse (MAX) : 	2019/07/02	20:40:16.5	+13.6°	306.5°	188°	10.1	 
+End of total eclipse (C3) : 	2019/07/02	20:41:06.4	+13.4°	306.4°	328°	05.3	-7.5s
+End of partial eclipse (C4) : 	2019/07/02	21:47:19.5	+01.1°	297.3°	099°	12.8	 
+Sunset (SET) : 	2019/07/02	21:55	-00.2°	296.4°	 
+---------------
+Dona Carmen Solar
+
+
+32° 28' 47.10" S	  ↔  	-32.47975°	    	(partial eclipse)
+71° 15' 07.31" W	  ↔  	-71.25203°
+67.9m (223ft)
+Obscuration : 94.15%	 	
+C1
+ 	Magnitude at maximum : 0.94672
+Moon/Sun size ratio : 1.03653
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:21:06.8	+23.7°	321.8°	281°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:37:20.3	+12.3°	307.8°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:44:24.8	+00.4°	297.9°	094°	01.0	 
+Sunset (SET) : 	2019/07/02	21:48	-00.3°	297.4°	
+-----------------------------------------------
+El Pelicano
+
+
+29° 08' 35.41" S	  ↔  	-29.14317°	    	1m42.6s (total eclipse)
+1m37.1s (lunar limb corrected)
+70° 52' 23.16" W	  ↔  	-70.87310°
+1118.7m (3670ft)
+Umbral depth : 24.90%
+Path width : 144.4km
+Obscuration : 100.00%	 	
+C1
+ 	Magnitude at maximum : 1.00460
+Moon/Sun size ratio : 1.03693
+Umbral velocity : 3.176km/s
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:23:41.6	+25.7°	320.0°	277°	07.5	 
+Start of total eclipse (C2) : 	2019/07/02	20:39:26.2	+13.7°	306.6°	050°	02.6	-1.7s
+Maximum eclipse (MAX) : 	2019/07/02	20:40:17.7	+13.5°	306.5°	188°	10.1	 
+End of total eclipse (C3) : 	2019/07/02	20:41:08.9	+13.4°	306.3°	327°	05.3	-7.2s
+End of partial eclipse (C4) : 	2019/07/02	21:47:19.1	+01.1°	297.3°	099°	12.8	 
+Sunset (SET) : 	2019/07/02	21:55	-00.3°	296.4°	 
+-----------------------------------------------
+Solar Cordillerilla
+
+
+30° 52' 41.30" S	  ↔  	-30.87814°	    	1m36.3s (total eclipse)
+1m32.6s (lunar limb corrected)
+69° 33' 33.84" W	  ↔  	-69.55940°
+2440.1m (8005ft)
+Umbral depth : 22.98%
+Path width : 143.9km
+Obscuration : 100.00%	 	
+C1
+ 	Magnitude at maximum : 1.00417
+Moon/Sun size ratio : 1.03634
+Umbral velocity : 3.152km/s
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:24:49.8	+23.5°	319.2°	278°	07.5	 
+Start of total eclipse (C2) : 	2019/07/02	20:39:26.7	+11.7°	306.1°	149°	11.4	+2.0s
+Maximum eclipse (MAX) : 	2019/07/02	20:40:15.0	+11.6°	306.0°	008°	04.1	 
+End of total eclipse (C3) : 	2019/07/02	20:41:03.0	+11.4°	305.8°	228°	08.8	-1.7s
+Sunset (SET) : 	2019/07/02	21:45	-00.3°	296.9°	0.54%	 
+End of partial eclipse (C4) : 	2019/07/02	21:46:30.3*	-00.6°	296.7°	098°	12.9	 
+--------------------
+Solar Alturas de Ovalle
+
+
+30° 33' 11.02" S	  ↔  	-30.55306°	    	(partial eclipse)
+71° 14' 31.27" W	  ↔  	-71.24202°
+319.4m (1048ft)
+Obscuration : 99.57%	 	
+C1
+ 	Magnitude at maximum : 0.99329
+Moon/Sun size ratio : 1.03682
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:22:13.1	+25.0°	321.0°	279°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:38:53.3	+13.2°	307.2°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:46:06.5	+00.9°	297.6°	097°	12.9	 
+Sunset (SET) : 	2019/07/02	21:53	-00.3°	296.8°	 
+-------------------
+Hormiga Solar
+
+
+32° 42' 57.74" S	  ↔  	-32.71604°	    	(partial eclipse)
+70° 43' 12.79" W	  ↔  	-70.72022°
+725.6m (2381ft)
+Obscuration : 94.16%	 	
+C1
+ 	Magnitude at maximum : 0.94689
+Moon/Sun size ratio : 1.03636
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:21:50.9	+23.1°	321.2°	281°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:37:39.7	+11.7°	307.4°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:44:25.8	-00.1°	297.6°	094°	01.0	 
+Sunset (SET) : 	2019/07/02	21:46	-00.3°	297.5°	
+--------------------
+Solar San Pedro
+
+
+33° 54' 10.48" S	  ↔  	-33.90291°	    	(partial eclipse)
+71° 26' 34.62" W	  ↔  	-71.44295°
+140.8m (462ft)
+Obscuration : 89.66%	 	
+C1
+ 	Magnitude at maximum : 0.91120
+Moon/Sun size ratio : 1.03636
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:20:02.2	+22.8°	322.5°	283°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:35:55.8	+11.7°	308.4°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:42:54.4	+00.1°	298.2°	092°	01.1	 
+Sunset (SET) : 	2019/07/02	21:45	-00.2°	297.9°	 
+--------------------
+Solar El Boco
+
+
+32° 51' 18.04" S	  ↔  	-32.85501°	    	(partial eclipse)
+71° 14' 12.80" W	  ↔  	-71.23689°
+150.4m (493ft)
+Obscuration : 93.05%	 	
+C1
+ 	Magnitude at maximum : 0.93798
+Moon/Sun size ratio : 1.03647
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:20:56.0	+23.4°	321.9°	282°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:37:02.3	+12.1°	307.9°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:44:03.7	+00.2°	297.9°	094°	01.0	 
+Sunset (SET) : 	2019/07/02	21:47	-00.3°	297.5°	 
+--------------------
+Solar Las Cabras
+
+
+34° 04' 59.74" S	  ↔  	-34.08326°	    	(partial eclipse)
+71° 22' 21.11" W	  ↔  	-71.37253°
+143.0m (469ft)
+Obscuration : 89.22%	 	
+C1
+ 	Magnitude at maximum : 0.90779
+Moon/Sun size ratio : 1.03631
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:20:03.1	+22.6°	322.5°	283°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:35:50.3	+11.6°	308.4°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:42:45.0	+00.0°	298.2°	092°	01.1	 
+Sunset (SET) : 	2019/07/02	21:45	-00.3°	297.9°	
+---------------------
+San Pedro
+
+
+34° 01' 53.54" S	  ↔  	-34.03154°	    	(partial eclipse)
+71° 23' 10.50" W	  ↔  	-71.38625°
+166.5m (546ft)
+Obscuration : 89.36%	 	
+C1
+ 	Magnitude at maximum : 0.90883
+Moon/Sun size ratio : 1.03632
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:20:03.5	+22.7°	322.5°	283°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:35:52.3	+11.6°	308.4°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:42:47.9	+00.0°	298.2°	092°	01.1	 
+Sunset (SET) : 	2019/07/02	21:45	-00.3°	297.9°	
+---------------------
+El Monte
+
+
+33° 40' 48.18" S	  ↔  	-33.68005°	    	(partial eclipse)
+71° 01' 18.01" W	  ↔  	-71.02167°
+271.8m (892ft)
+Obscuration : 90.89%	 	
+C1
+ 	Magnitude at maximum : 0.92094
+Moon/Sun size ratio : 1.03629
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:20:49.5	+22.7°	321.9°	283°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:36:32.2	+11.5°	307.9°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:43:20.2	-00.2°	297.9°	093°	01.0	 
+Sunset (SET) : 	2019/07/02	21:45	-00.3°	297.8°	
+----------------------
+Melipilla
+
+
+33° 38' 12.70" S	  ↔  	-33.63686°	    	(partial eclipse)
+71° 09' 59.65" W	  ↔  	-71.16657°
+185.1m (607ft)
+Obscuration : 90.82%	 	
+Max
+ 	Magnitude at maximum : 0.92039
+Moon/Sun size ratio : 1.03633
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:20:37.1	+22.8°	322.1°	283°	07.5	 
+Maximum eclipse (MAX) : 	2019/07/02	20:36:26.0	+11.6°	308.1°	008°	04.1	 
+End of partial eclipse (C4) : 	2019/07/02	21:43:18.8	-00.0°	298.0°	093°	01.0	 
+Sunset (SET) : 	2019/07/02	21:45	-00.3°	297.8°	
+---------------------
+Uribe Solar
+
+
+23° 33' 43.60" S	  ↔  	-23.56211°	    	(partial eclipse)
+70° 12' 59.80" W	  ↔  	-70.21661°
+594.4m (1950ft)
+Obscuration : 82.20%	 	
+C1
+ 	Magnitude at maximum : 0.85236
+Moon/Sun size ratio : 1.03758
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:28:37.9	+28.8°	316.5°	269°	07.6	 
+Maximum eclipse (MAX) : 	2019/07/02	20:44:15.2	+15.5°	304.3°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:50:04.5	+02.5°	296.5°	109°	12.3	 
+Sunset (SET) : 	2019/07/02	22:04	-00.2°	295.1°	
+---------------------
+FV Bolero
+
+
+23° 28' 56.71" S	  ↔  	-23.48242°	    	(partial eclipse)
+69° 25' 02.17" W	  ↔  	-69.41727°
+1709.4m (5608ft)
+Obscuration : 80.65%	 	
+C1
+ 	Magnitude at maximum : 0.84024
+Moon/Sun size ratio : 1.03737
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:30:12.3	+28.1°	315.6°	268°	07.6	 
+Maximum eclipse (MAX) : 	2019/07/02	20:45:02.7	+14.8°	303.8°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:50:15.7	+01.9°	296.1°	109°	12.2	 
+Sunset (SET) : 	2019/07/02	22:01	-00.3°	295.1°	
+--------------------
+Cerro Dominador
+
+
+22° 45' 38.23" S	  ↔  	-22.76062°	    	(partial eclipse)
+69° 29' 47.18" W	  ↔  	-69.49644°
+1485.7m (4874ft)
+Obscuration : 78.32%	 	
+C1
+ 	Magnitude at maximum : 0.82181
+Moon/Sun size ratio : 1.0375
+Event (ΔT=69.4s)	Date	Time (UT)	Alt	Azi	P	V	LC
+Start of partial eclipse (C1) : 	2019/07/02	19:30:37.4	+28.6°	315.3°	267°	07.6	 
+Maximum eclipse (MAX) : 	2019/07/02	20:45:18.7	+15.2°	303.6°	189°	09.8	 
+End of partial eclipse (C4) : 	2019/07/02	21:50:22.1	+02.2°	296.1°	110°	12.2	 
+Sunset (SET) : 	2019/07/02	22:03	-00.3°	294.9°	

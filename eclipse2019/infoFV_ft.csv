@@ -1,0 +1,68 @@
+idPlanta,NombreComuna,centralNombre,Potencia,UTM_este,UTM_oeste
+1,Andacollo,Solar SDGx01,1.28,298624,6654191
+2,Copiapó,Solar Llano de Llampos,101.02,383921,7000014
+3,Copiapó,Solar San Andres,49.7,389995,6984918
+4,Diego de Almagro,Solar Diego de Almagro,32,398306,7081876
+5,Vallenar,Solar Santa Cecilia,2.96,313828,6777519
+6,Taltal,Solar Lalackama,55,367831,7221038
+7,Diego de Almagro,Solar Chanares,36,393688,7082373
+8,Diego de Almagro,Solar PV Salvador,68,413357,7089238
+9,Tierra Amarilla,Solar Las Terrazas,3,367694,6943243
+10,Combarbalá,Solar PSF Pama,2,307273,6547980
+11,Combarbalá,Solar PSF Lomas Coloradas,2,306502,6547012
+12,Peñalolén,Solar Techos de Altamira,0.15,357141.09,6294500.59
+13,Vicuña,Solar Tambo Real,2.94,329345.5,6674521.09
+14,Chañaral,Solar Javiera,65,378889,7090428
+15,Tiltil,Solar Loma Los Colorados,1.074,307273,6547980
+16,Copiapó,Solar Luz del Norte,141.04,410808,7011661
+18,Diego de Almagro,Solar El Pilar - Los Amarillos,3,425525,7088928
+19,Taltal,Solar Pampa Solar Norte,69.3,380663.37,7175314.35
+20,Vicuña,Solar Luna,2.96,338024,6675560
+21,Copiapó,Solar Carrera Pinto,93,413885,7012836
+22,Vicuña,Solar Sol,2.96,337511.9,6675743.83
+23,Taltal,Solar Lalackama 2,16.5,367480,7222585
+24,Diego de Almagro,Solar Esperanza,2.88,345836,6209729
+25,La Higuera,Solar La Silla,1.53,331357,6756355
+26,Colina,Solar Quilapilun,111.3467459,345853,6336248
+27,Ovalle,Solar La Chapeana,2.78,297505,6622199
+28,Ovalle,Solar Las Mollacas,2.78,286875,6604316
+29,Tierra Amarilla,Solar Los Loros,46,384490.85,6918188.08
+30,Taltal,Solar Conejo,104,381808.97,7177810.04
+31,Ovalle,Solar Lagunilla,2.95,296889,6623143
+32,Tiltil,Solar Til Til,3,329810.01,6353647.31
+33,Copiapó,Solar Piloto Solar Cardones,0.4376,363175.04,6958793.7
+,Tiltil,,92.73,326510,6338085
+35,Illapel,Solar Bellavista,3,289378,6494513
+36,Petorca,Solar Santa Julia,3,302057,6424179
+37,Calama,Andes Solar,21.795,542260.14,7344264.59
+38,Arica,Pampa Camarones,6.24,382572,7911302
+39,Arica,El Aguila,2.045,406405.42,7960148.78
+40,María Elena,Maria Elena FV,68,441564.1,7542376.01
+41,María Elena,Finis Terrae,138,445661.14,7530254.47
+42,Calama,Solar Jama,52.65,530513.82,7503344.84
+43,Pozo Almonte,Pozo Almonte Solar 2,7.516,421068.27,7758263.55
+44,Pozo Almonte,Pozo Almonte Solar 3,16.038,422096.16,7760606.2
+45,Pozo Almonte,La Huayca II,25.05,444294.84,7738386.01
+46,Quilicura,Solar Las Araucarias,0.14,340724.63,6309048.77
+48,Salamanca,Solar Chuchini,2.88,303234,6485793
+49,Punitaqui,Solar El Divisadero,3,296519,6585324
+50,Vallenar,Solar El Romero,196,313298.95,6778249.33
+51,La Ligua,Solar Dona Carmen Solar,34.617,288376,6404151
+52,La Higuera,Solar El Pelicano,100,317795,6774701
+53,Curicó,Solar Cordillerilla,1.43,446528,6583769
+54,Ovalle,Solar Alturas de Ovalle,6,284945,6617789
+55,San Felipe,Solar Hormiga Solar,2.54,338781,6378884
+56,San Pedro,Solar San Pedro,3,274116,6245922
+58,Quillota,Solar El Boco,3,290701.2,6362551.89
+,Las Cabras,,2.98,281092.62,6226071.92
+,San Pedro,,9,279692.52,6231778.51
+,El Monte,,9,312590.94,6271484.42
+,Melipilla,,3,299276.0794,6275979.738
+,Melipilla,,3,299012,6281056
+,Hijuelas,,3,304392.607,6357696.136
+65,Antofagasta,Uribe Solar,52.8,375836,7393726
+66,Sierra Gorda,FV Bolero,146.64,457390.5,7403012.87
+,Marchihue,,8.99,266425.0713,6197408.102
+75,Melipilla,Solar Las Turcas,3,289139,6257356
+77,María Elena,Cerro Dominador FV,99.05,448826,7483190
+,Mostazal,,3,349503,6236848
